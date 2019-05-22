@@ -1,6 +1,6 @@
 # People Picture
 
-![People Picture](/images/peoplePic_header.jpg)
+![People Picture](/images/peoplePicture_header.jpg)
 
 [Webpage](https://jacqswu.com/People-Picture)
 
